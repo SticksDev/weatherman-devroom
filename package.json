@@ -1,0 +1,31 @@
+{
+  "name": "wetahermanpog",
+  "version": "1.0.0",
+  "description": "weatherman bot for devroom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "installdeps": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "author": "sticks#6436",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@sapphire/time-utilities": "^1.4.6",
+    "axios": "^0.24.0",
+    "colorette": "^2.0.16",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "quick.db": "^7.1.3"
+  }
+}
